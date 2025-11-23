@@ -1,53 +1,43 @@
 # 👋 Hi, I'm Youssef Zahran
 
 🎓 Computer Science Student | 💻 AI & Software Engineering Major  
-📍 Living in Malaysia 🇲🇾 and Dammam, Saudi Arabia 🇸🇦  
+📊 Aspiring Data Scientist | 🤖 ML Enthusiast  
+📍 Based in Malaysia 🇲🇾 and Dammam, Saudi Arabia 🇸🇦  
 📧 Email: youssefzahran.y@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/youssef-ibrahim-428138257)
 
 ---
 
 ## 🔍 About Me
-I'm a dedicated and curious learner in machine learning and data science, with a growing portfolio of AI-driven and web-based projects. I'm passionate about solving real-world problems using clean, efficient code and meaningful data.
+I’m a passionate learner in machine learning and data science, focused on building intelligent systems that create real impact. With a foundation in AI, software engineering, and security, I combine technical depth with a drive for innovation.
 
-- 🤖 Interested in: Machine Learning, Data Science, and Blockchain Security  
-- 📚 Learning: Scikit-learn, TensorFlow, CNNs, pandas, and NumPy  
-- 🧠 Exploring: Smart contract security, reentrancy attacks, AI automation  
-- 💻 Building: ML-powered apps, dashboards, and NLP tools  
-- 👥 Open to: Collaborations on ML/AI, data analytics, and security tools
-
----
-
-## 📌 Pinned Projects
-- 🔬 `An-Application-Development-for-Air-Quality-Insights` – Environmental insights through JavaScript.
-- 🗃️ `2C_Group-C_Youssef-IBrahim` – Collaborative academic repo.
-- 🌐 `MY-Websit` – Personal website project using HTML.
+- 🔬 Data Science: EDA, classification, regression, clustering  
+- 🤖 ML: TensorFlow, Scikit-learn, CNNs, NLP, model evaluation  
+- 🛡️ Blockchain Security: Smart contracts, reentrancy, automation tools  
+- 👨‍💻 Skills: Python, pandas, NumPy, Matplotlib, Git, Flask, HTML/CSS  
+- 👥 Collaboration: Open to internships, group projects, and hackathons
 
 ---
 
-## 🛠️ Tools & Technologies
-- Languages: Python, JavaScript, HTML/CSS  
-- Frameworks: TensorFlow, Flask, Bootstrap  
-- Tools: Git, VS Code, GitHub, Jupyter, Colab  
-- Domains: Machine Learning, Data Science, Web Dev, Smart Contracts
+## 📁 My Projects
+Check out my pinned repositories below for real-world examples of my work across data science, machine learning, and web development.
 
 ---
 
 ## 🚀 Goals for 2025
-- ✅ Build and launch multiple open-source AI tools  
-- 🌐 Publish a full ML project end-to-end  
-- 📈 Grow GitHub Sponsors support  
-- 📝 Contribute to real-world research or production codebases
+- ✅ Launch open-source ML & DS tools  
+- 🌐 Build full-stack AI-powered dashboards  
+- 📝 Contribute to impactful research or case studies  
+- 📈 Grow a strong GitHub sponsor base
 
 ---
 
 ## 📫 Get in Touch
-I'm always open to new opportunities and collaborations. Whether it's a side project, internship, or a challenge — let’s connect!
+Whether you're building a product, solving a tough problem, or just want to connect — feel free to reach out.
 
-- 💬 Email: [youssefzahran.y@gmail.com](mailto:youssefzahran.y@gmail.com)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/youssef-ibrahim-428138257)
+- 💬 [youssefzahran.y@gmail.com](mailto:youssefzahran.y@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/youssef-ibrahim-428138257)
 
 ---
 
 > “The goal isn’t to be better than others — it’s to be better than yesterday.”
-
