@@ -13,7 +13,6 @@ I’m a passionate learner in machine learning and data science, focused on buil
 
 - 🔬 Data Science: EDA, classification, regression, clustering  
 - 🤖 ML: TensorFlow, Scikit-learn, CNNs, NLP, model evaluation  
-- 🛡️ Blockchain Security: Smart contracts, reentrancy, automation tools  
 - 👨‍💻 Skills: Python, pandas, NumPy, Matplotlib, Git, Flask, HTML/CSS  
 - 👥 Collaboration: Open to internships, group projects, and hackathons
 
