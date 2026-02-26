@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Youssef Zahran
 
-🎓 Computer Science Student | 💻 AI & Software Engineering Major  
+ 💻 AI & Software Engineering Major  
 📊 Aspiring Data Scientist | 🤖 ML Enthusiast  
 📍 Based in Malaysia 🇲🇾 and Dammam, Saudi Arabia 🇸🇦  
 📧 Email: youssefzahran.y@gmail.com  
