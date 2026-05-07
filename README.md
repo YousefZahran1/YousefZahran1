@@ -2,7 +2,7 @@
 
  💻 AI & Software Engineering Major  
 📊 Aspiring Data Scientist | 🤖 ML Enthusiast  
-📍 Based in Malaysia 🇲🇾 and Dammam, Saudi Arabia 🇸🇦  
+📍 Based in Dammam, Saudi Arabia 🇸🇦  
 📧 Email: youssefzahran.y@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/youssef-ibrahim-428138257)
 
