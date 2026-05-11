@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Youssef Zahran
+# 👋 Hi, I'm Youssef Ibrahim
 
  💻 AI & Software Engineering Major  
 📊 Aspiring Data Scientist | 🤖 ML Enthusiast  
